@@ -5,3 +5,24 @@ Display Filter(看你要的): 顯示篩選器
 FTP :檔案傳輸協定
 //軟體
 wireshark
+
+//FTP
+---
+https://en.wikipedia.org/wiki/File_Transfer_Protocol
+---
+---
+C:\Users\USER>ftp 120.114.62.207
+Connected to 120.114.62.207.
+220 (vsFTPd 3.0.3)
+200 Always in UTF8 mode.
+User (120.114.62.207:(none)): abc
+331 Please specify the password.
+Password:
+530 Login incorrect.
+Login failed.
+ftp>
+---
+
+![wireshark](./wireshark側錄.pcapng)
+
+
