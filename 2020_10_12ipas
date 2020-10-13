@@ -5,6 +5,8 @@ Display Filter(看你要的): 顯示篩選器
 FTP :檔案傳輸協定
 vulnerability :漏洞
 authentication :認證
+spoofing 假冒
+Banner grabbing 橫幅抓取
 //軟體
 wireshark
 
