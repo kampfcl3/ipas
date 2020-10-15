@@ -23,7 +23,7 @@
       與 communication interruptions。此外，天災與人禍也可能導致資訊無法及時地與不受中斷地被讀取或使用，例如電廠跳電、電力中斷 (維修人員不小心切斷電源、怪手不小心挖斷電線)、地震、颱風、硬體因
       年久而自然損壞等等。
      ```
-  ![image](cia-triad.png)
+  ![image](https://github.com/kampfcl3/ipas/blob/main/PIC/cia-triad.png)
    
    #鑑別性(Authenticity)
      ```
