@@ -43,7 +43,9 @@
      ```
      對一已發生之行動或事件的證明，使該行動或事件往後不能被否認的能力。
      ```
-     
+```
+   ![image](https://github.com/kampfcl3/ipas/blob/main/PIC/cia-as-security-objectives-v2.jpg)
+```
      
      
    
