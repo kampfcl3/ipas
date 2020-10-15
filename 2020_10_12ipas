@@ -7,6 +7,7 @@ vulnerability :漏洞
 authentication :認證
 spoofing 假冒
 Banner grabbing 橫幅抓取
+Decoy Server:誘捕型入侵偵測系統
 //軟體
 wireshark
 
