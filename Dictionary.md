@@ -46,7 +46,12 @@
 ```
    ![image](https://github.com/kampfcl3/ipas/blob/main/PIC/cia-as-security-objectives-v2.jpg)
 ```
+========================================================================================
+   #風險管理(risk management)
+     ```
      
+     ```
+
      
    
    
@@ -58,7 +63,7 @@
    
    對於組織來說還要做到法規的遵循(compliance)
    
-   ##參考資料:
-     #1. http://blog.udn.com/chungchia/3428077
+   參考資料:
+     1. http://blog.udn.com/chungchia/3428077
  ```
    
