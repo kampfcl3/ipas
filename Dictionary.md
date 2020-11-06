@@ -66,4 +66,13 @@
    參考資料:
      1. http://blog.udn.com/chungchia/3428077
  ```
+ 
+ ## RAID 0
+ ```
+RAID 0亦稱為帶區集。它將兩個以上的磁碟並聯起來，成為一個大容量的磁碟。在存放資料時，分段後分散儲存在這些磁碟中，因為讀寫時都可以並列處理，所以在所有的級別中，RAID 0的速度是最快的。但是RAID 0既沒有冗餘功能，也不具備容錯能力，如果一個磁碟（物理）損壞，所有資料都會遺失，危險程度與JBOD相當。
+
+https://zh.wikipedia.org/wiki/RAID
+ ```
+ ![image](https://github.com/kampfcl3/ipas/blob/main/PIC/800px-RAID_0.svg.png)
+ 
    
